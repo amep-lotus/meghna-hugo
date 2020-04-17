@@ -11,7 +11,7 @@ sections:
   label: Post (en)
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: '20200417105238'
   templates:
   - post
   - post
