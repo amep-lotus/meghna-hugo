@@ -14,7 +14,6 @@ sections:
   new_doc_ext: ''
   templates:
   - post
-  - post
 - type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
