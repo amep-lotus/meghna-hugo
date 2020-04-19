@@ -25,4 +25,3 @@ jobs:
             else
               echo "Not master branch, dry run only"
             fi
-
